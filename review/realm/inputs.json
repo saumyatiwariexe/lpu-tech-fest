@@ -1,0 +1,12 @@
+{
+  "softwareAuto": "Lite",
+  "liteVideo": {
+    "width": 768,
+    "height": 432
+  },
+  "creditsLinks": 9,
+  "staticInfo": true,
+  "gamepad": "A starts, left stick walks, Menu opens, D-pad focuses, A selects, B closes",
+  "audio": true,
+  "mobile": "Touch joystick moves, canvas accepts drag, menu and FAQ open by tap"
+}

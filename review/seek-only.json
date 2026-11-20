@@ -1,0 +1,155 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "height": 900,
+    "bytes": 1199400,
+    "receivedEncodedBodyBytes": 7210778,
+    "continuousScrub": {
+      "durationMs": 4013.9999999880783,
+      "animationCallbacks": 113,
+      "presentedVideoFrames": 31,
+      "medianFrameMs": 33.30000000000291,
+      "p95FrameMs": 50.099999999998545,
+      "p95PlayheadDifferenceSec": 0.17079999998807693
+    },
+    "errors": [],
+    "samples": [
+      {
+        "percent": 0,
+        "medianFrameMs": 50,
+        "p95FrameMs": 50.100000000000364,
+        "heapBytes": 5375876
+      },
+      {
+        "percent": 25,
+        "medianFrameMs": 50,
+        "p95FrameMs": 66.70000000000073,
+        "heapBytes": 4611828
+      },
+      {
+        "percent": 50,
+        "medianFrameMs": 33.30000000000109,
+        "p95FrameMs": 33.400000000001455,
+        "heapBytes": 5584640
+      },
+      {
+        "percent": 75,
+        "medianFrameMs": 33.30000000000109,
+        "p95FrameMs": 33.400000000001455,
+        "heapBytes": 5491484
+      },
+      {
+        "percent": 100,
+        "medianFrameMs": 16.700000000000728,
+        "p95FrameMs": 16.799999999999272,
+        "heapBytes": 4931564
+      }
+    ],
+    "videoTime": 71.86,
+    "videoReady": 4,
+    "webgl": true
+  },
+  {
+    "name": "tablet",
+    "width": 834,
+    "height": 1194,
+    "bytes": 1214508,
+    "receivedEncodedBodyBytes": 3176509,
+    "continuousScrub": {
+      "durationMs": 4009.2000000119224,
+      "animationCallbacks": 90,
+      "presentedVideoFrames": 21,
+      "medianFrameMs": 49.900000000001455,
+      "p95FrameMs": 66.70000000000073,
+      "p95PlayheadDifferenceSec": 0.25003800001191934
+    },
+    "errors": [],
+    "samples": [
+      {
+        "percent": 0,
+        "medianFrameMs": 33.40000000000009,
+        "p95FrameMs": 50,
+        "heapBytes": 5343320
+      },
+      {
+        "percent": 25,
+        "medianFrameMs": 33.400000000000546,
+        "p95FrameMs": 66.69999999999982,
+        "heapBytes": 5910364
+      },
+      {
+        "percent": 50,
+        "medianFrameMs": 33.30000000000109,
+        "p95FrameMs": 50.100000000000364,
+        "heapBytes": 5548728
+      },
+      {
+        "percent": 75,
+        "medianFrameMs": 33.399999999999636,
+        "p95FrameMs": 66.70000000000073,
+        "heapBytes": 5507340
+      },
+      {
+        "percent": 100,
+        "medianFrameMs": 16.700000000000728,
+        "p95FrameMs": 16.700000000000728,
+        "heapBytes": 5123292
+      }
+    ],
+    "videoTime": 71.91,
+    "videoReady": 4,
+    "webgl": true
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "height": 844,
+    "bytes": 1214508,
+    "receivedEncodedBodyBytes": 4576419,
+    "continuousScrub": {
+      "durationMs": 4020.6000000476834,
+      "animationCallbacks": 205,
+      "presentedVideoFrames": 32,
+      "medianFrameMs": 16.69999999999891,
+      "p95FrameMs": 33.399999999999636,
+      "p95PlayheadDifferenceSec": 0.1529530000476811
+    },
+    "errors": [],
+    "samples": [
+      {
+        "percent": 0,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.700000000000045,
+        "heapBytes": 5665612
+      },
+      {
+        "percent": 25,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 33.29999999999927,
+        "heapBytes": 5056136
+      },
+      {
+        "percent": 50,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.699999999999818,
+        "heapBytes": 6298396
+      },
+      {
+        "percent": 75,
+        "medianFrameMs": 16.69999999999891,
+        "p95FrameMs": 16.700000000000728,
+        "heapBytes": 5411784
+      },
+      {
+        "percent": 100,
+        "medianFrameMs": 16.600000000000364,
+        "p95FrameMs": 16.80000000000109,
+        "heapBytes": 5624280
+      }
+    ],
+    "videoTime": 71.91,
+    "videoReady": 4,
+    "webgl": true
+  }
+]

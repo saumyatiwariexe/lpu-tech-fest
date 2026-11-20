@@ -1,0 +1,595 @@
+{
+  "downloadHosts": [
+    "ambientcg.com",
+    "acg-download.struffelproductions.com",
+    "dl.polyhaven.org",
+    "registry.npmjs.org",
+    "raw.githubusercontent.com"
+  ],
+  "assets": [
+    {
+      "path": "public/realm/dragon.glb",
+      "bytes": 73888,
+      "sha256": "2c7e3bd3e509c025edfe6e42e1066de1166b53120e0ac34cbd51a593402acfad",
+      "tris": 6552,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          -1.2602351118924764,
+          -0.7351918845414327,
+          -3.7158702206812535
+        ],
+        "max": [
+          1.2602351118924764,
+          3.424226089160066,
+          1.7800002924946852
+        ]
+      },
+      "materials": [
+        "Basalt scales",
+        "Mouth cavity",
+        "Ember iris",
+        "Volcanic glass",
+        "Ivory horn"
+      ],
+      "skinJoints": [
+        "Neck",
+        "Skull",
+        "Jaw"
+      ],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Neck hierarchy, head and jaw posing, root lunge and breathing",
+      "pivot": "Bust base, local skeleton pose"
+    },
+    {
+      "path": "public/realm/dusk.webp",
+      "bytes": 33402,
+      "sha256": "c294a2e86074054477d64f950193102909b4796b5b533cc136ee2d2f6a751292",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/kloppenheim.txt",
+      "pixels": [
+        2048,
+        1024
+      ]
+    },
+    {
+      "path": "public/realm/gate.glb",
+      "bytes": 62648,
+      "sha256": "c2a29bb960d6e089bcfb005fe34ff90e1a971c605c31c0c4f7268a0b61357600",
+      "tris": 7856,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          0.00003907687296500484,
+          0,
+          -0.15483238234960023
+        ],
+        "max": [
+          2.8799612163818873,
+          5.997992038726807,
+          0.36283238664113465
+        ]
+      },
+      "materials": [
+        "Smoked oak",
+        "Blue iron",
+        "Burnished edges"
+      ],
+      "skinJoints": [],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Rotated at side jamb using outer group",
+      "pivot": "Hinge at outer jamb; mirrored for opposite door"
+    },
+    {
+      "path": "public/realm/masonry-normal.webp",
+      "bytes": 26530,
+      "sha256": "7886a11e2b0411c9754d2aa4e95ba88522960e1d6f5c4b294d664e950d0353c0",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/bricks097.txt",
+      "pixels": [
+        512,
+        256
+      ]
+    },
+    {
+      "path": "public/realm/masonry.webp",
+      "bytes": 161472,
+      "sha256": "018bad9d79078f0e4f3be187634063590a47924866ac94eaedc1e78d56f1f1bb",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/bricks097.txt",
+      "pixels": [
+        1024,
+        512
+      ]
+    },
+    {
+      "path": "public/realm/throne.glb",
+      "bytes": 14680,
+      "sha256": "346c08821cf1116d71f3880a26739ccc0904a69d34b4b7d46f83fca9ffd71562",
+      "tris": 876,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          -1.6343319125053528,
+          0.125,
+          -1.5134543389919626
+        ],
+        "max": [
+          1.633797378051007,
+          5.488457500934601,
+          0.9380518407467233
+        ]
+      },
+      "materials": [
+        "Volcanic glass"
+      ],
+      "skinJoints": [],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Emissive-edge threshold dissolve",
+      "pivot": "Base on dais"
+    },
+    {
+      "path": "public/realm/trophy0.glb",
+      "bytes": 11684,
+      "sha256": "aa7a201d528434498a0ae0cd7a804e8557fb446f95adb37956895f42df17b204",
+      "tris": 736,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          -0.5051067589605702,
+          0,
+          -0.37001957388622997
+        ],
+        "max": [
+          0.506719481834258,
+          1.038317322731018,
+          0.37001957388622997
+        ]
+      },
+      "materials": [
+        "Hammered electrum"
+      ],
+      "skinJoints": [],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Vertical rise and slow turn around base",
+      "pivot": "Base on dais"
+    },
+    {
+      "path": "public/realm/trophy1.glb",
+      "bytes": 6828,
+      "sha256": "7505d899cf46b633f8749d2f07429958197049545ec130654b79678ef16196a9",
+      "tris": 350,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          -0.35003735500925004,
+          0,
+          -0.35003735500925004
+        ],
+        "max": [
+          0.35003735500925004,
+          1.2013903856277466,
+          0.35003735500925004
+        ]
+      },
+      "materials": [
+        "Hammered electrum"
+      ],
+      "skinJoints": [],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Vertical rise and slow turn around base",
+      "pivot": "Base on dais"
+    },
+    {
+      "path": "public/realm/trophy2.glb",
+      "bytes": 5260,
+      "sha256": "62af78ab3d5e4c25ff820be5e8d1a189853778cb162710654a44857e37afd7be",
+      "tris": 252,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          -0.3500091555528428,
+          0,
+          -0.3500091555528428
+        ],
+        "max": [
+          0.3500091555528428,
+          1.25,
+          0.3500091555528428
+        ]
+      },
+      "materials": [
+        "Hammered electrum"
+      ],
+      "skinJoints": [],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Vertical rise and slow turn around base",
+      "pivot": "Base on dais"
+    },
+    {
+      "path": "public/realm/trophy3.glb",
+      "bytes": 17504,
+      "sha256": "0674b8bf7f2bccf458ba25bcf24b41181c810339920a70311aea2fa10f56fa64",
+      "tris": 1246,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          -0.35001972811475357,
+          0,
+          -0.35001972811475357
+        ],
+        "max": [
+          0.35001972811475357,
+          1.1553436517715454,
+          0.35001972811475357
+        ]
+      },
+      "materials": [
+        "Hammered electrum"
+      ],
+      "skinJoints": [],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Vertical rise and slow turn around base",
+      "pivot": "Base on dais"
+    },
+    {
+      "path": "public/realm/trophy4.glb",
+      "bytes": 9724,
+      "sha256": "d1ce716efaf76f15442ffe65d80fb634c220817e453caa3974cc90f157219738",
+      "tris": 544,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "boundsMetres": {
+        "min": [
+          -0.3499715445835997,
+          0,
+          -0.3499715445835997
+        ],
+        "max": [
+          0.3499715445835997,
+          1.2520490884780884,
+          0.3499715445835997
+        ]
+      },
+      "materials": [
+        "Hammered electrum"
+      ],
+      "skinJoints": [],
+      "embeddedClips": 0,
+      "textureCount": 0,
+      "requiredExtensions": [
+        "EXT_meshopt_compression",
+        "KHR_mesh_quantization"
+      ],
+      "units": "metres, Y up",
+      "runtimeMotion": "Vertical rise and slow turn around base",
+      "pivot": "Base on dais"
+    },
+    {
+      "path": "public/media/crowns.jpg",
+      "bytes": 99930,
+      "sha256": "003b360d804a11cfc371195a37dc0511ff639000b8cea1b65be38ba16a3828bb",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "public/media/fire.jpg",
+      "bytes": 207208,
+      "sha256": "1c9e26c7399392ee196d3b4987077a04343880d9c7491c158e26cdb75dec76af",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "public/media/fortress.jpg",
+      "bytes": 192213,
+      "sha256": "08823a465e196f2d644599f5e7e967b2cc9dd1d9f73e946fce8d35d952f53150",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "public/media/gate.jpg",
+      "bytes": 204563,
+      "sha256": "240aa11bb31decbfce6bba7057db39c606e23f389e7aa6d6039af8a7d4c6b656",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "public/media/mobile.mp4",
+      "bytes": 7303260,
+      "sha256": "b29acd5c616c54df4b53a63f8a675939acbfd23bf78acbbdebc1c41b54088b9b",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt"
+    },
+    {
+      "path": "public/media/throne.jpg",
+      "bytes": 150691,
+      "sha256": "bf7ab41108d09b4520b541c43733ae259dcd8293f25927a8198d0654cfdd5e6f",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "public/media/wide.mp4",
+      "bytes": 21902676,
+      "sha256": "5f206bcb37e2cb8774242a817894c7bf55ea5886d41f6bec206c681403fee40a",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt"
+    },
+    {
+      "path": "public/media/wyrm.jpg",
+      "bytes": 120657,
+      "sha256": "ce616580a30a31c35a5e0cf6bed934431bb8f2a92ec5a2ee73fa5743f6ac9053",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "reference/15.jpg",
+      "bytes": 116058,
+      "sha256": "c26b83696311c1ffd04a28a506c5bbc3c7ff0f8134498a3d0faa94f4ae322e83",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "reference/20.jpg",
+      "bytes": 102894,
+      "sha256": "70cacb69707c9ea6f95bd91eae4fe1013b70d1c6f89e320eaffa28f9868817df",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "reference/30.jpg",
+      "bytes": 79268,
+      "sha256": "22891995be88b501bb8abe70f52b40ae4a8da1337069eb7752f97203cafd87dd",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "reference/42.jpg",
+      "bytes": 69419,
+      "sha256": "be628c81d0088857c06262f5526d603f4f470d9c0684803bfdeba373b321b064",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "reference/5.jpg",
+      "bytes": 104470,
+      "sha256": "fd9071a0e60ab2683ae94f1e19f005821a1b6c2eb7ff510af6948c0b57452829",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "reference/52.jpg",
+      "bytes": 97444,
+      "sha256": "63fcc173356cb56ffc7b156310f952d499d7ce5e7cb35fdffa0341863d8aebf6",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "reference/66.jpg",
+      "bytes": 51859,
+      "sha256": "37d95c395422da26f3e7e4f3fd847832ecec3aaa9917b3a4f29fc81edcd4a65c",
+      "tris": 0,
+      "tier": "Supplied classic reference",
+      "proof": "docs/licenses/film.txt",
+      "pixels": [
+        1280,
+        720
+      ]
+    },
+    {
+      "path": "node_modules/@fontsource/cinzel/files/cinzel-latin-500-normal.woff",
+      "bytes": 17392,
+      "sha256": "9a9d232ab20440ff2571ebd2ef69ef562ff16b85af6a4c4eb62c1a75f986fa0f",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/cinzel.txt"
+    },
+    {
+      "path": "node_modules/@fontsource/cinzel/files/cinzel-latin-500-normal.woff2",
+      "bytes": 15040,
+      "sha256": "2864b2c9db377e10db43d3ca1ab268c0e10cf3ee94b1a325d104b8e4a74dc7da",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/cinzel.txt"
+    },
+    {
+      "path": "node_modules/@fontsource/barlow/files/barlow-latin-400-normal.woff",
+      "bytes": 19584,
+      "sha256": "7376a9d87b48a86bb0ca067d00a994d65bb171c66f126be40ec647ebbe3e0ee7",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/barlow.txt"
+    },
+    {
+      "path": "node_modules/@fontsource/barlow/files/barlow-latin-400-normal.woff2",
+      "bytes": 22196,
+      "sha256": "b0a8ad37ac45f5fb22ced461576db72e44e295107aad7a9c8a7a4bad728fd03b",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/barlow.txt"
+    },
+    {
+      "path": "node_modules/@fontsource/barlow/files/barlow-latin-600-normal.woff",
+      "bytes": 19884,
+      "sha256": "cb76adc8642e8980cd4bdb0e63658aa818696f3289f38400e7154ed3992bbeb6",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/barlow.txt"
+    },
+    {
+      "path": "node_modules/@fontsource/barlow/files/barlow-latin-600-normal.woff2",
+      "bytes": 22772,
+      "sha256": "4b52ddd4836b592df0e4832b8286956883cdc651b015126bdd18f184b7f90cc3",
+      "tris": 0,
+      "tier": "A",
+      "proof": "docs/licenses/barlow.txt"
+    },
+    {
+      "path": "src/realm-world.ts",
+      "bytes": 19995,
+      "sha256": "c587fe0f87a8d363e5464fe7e472a146807164e50d2df5d4a89beebac7cf3802",
+      "tris": 0,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "generatedAtRuntime": true
+    },
+    {
+      "path": "src/realm-fx.ts",
+      "bytes": 4016,
+      "sha256": "c540aa3e863107471ce5e86f0687dc15343053c42da28ddfb2dbb95bb88c0cf6",
+      "tris": 0,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "generatedAtRuntime": true
+    },
+    {
+      "path": "src/realm-sprites.ts",
+      "bytes": 2572,
+      "sha256": "796589eab3463cad4f03789923a90ed55761ef34dd50dc227108051da1f8133f",
+      "tris": 0,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "generatedAtRuntime": true
+    },
+    {
+      "path": "src/realm-materials.ts",
+      "bytes": 2668,
+      "sha256": "2bea5577d7e8e4a361fc660e23a3d5e49e9a4e66d3a32481a84f5cc8a9488cd4",
+      "tris": 0,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "generatedAtRuntime": true
+    },
+    {
+      "path": "src/realm-audio.ts",
+      "bytes": 2089,
+      "sha256": "bd8baa543bb87ae9aab298e060cb345ddcf363da3f8f660e4c03bce92e565281",
+      "tris": 0,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "generatedAtRuntime": true
+    },
+    {
+      "path": "src/marks.ts",
+      "bytes": 2177,
+      "sha256": "c8956f1e5497bf4546784cb5da6b5bd013e3a1cde4457be53106798daf093f70",
+      "tris": 0,
+      "tier": "Original",
+      "proof": "docs/licenses/original.txt",
+      "generatedAtRuntime": true
+    }
+  ]
+}

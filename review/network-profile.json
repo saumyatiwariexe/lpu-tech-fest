@@ -1,0 +1,25 @@
+{
+  "latencyMs": 150,
+  "downMbps": 1.6,
+  "upMbps": 0.75,
+  "paint": [
+    {
+      "name": "first-paint",
+      "ms": 728
+    },
+    {
+      "name": "first-contentful-paint",
+      "ms": 1100
+    }
+  ],
+  "requestsBeforeInteraction": [
+    "/",
+    "/assets/cinzel-latin-500-normal-B-2dbOfA.woff2",
+    "/assets/barlow-latin-600-normal-DILqtrty.woff2",
+    "/assets/barlow-latin-400-normal-qiz4-Cze.woff2",
+    "/media/fortress.jpg",
+    "/assets/index-Zu6m0m4A.js",
+    "/assets/index-Bz1FFVEX.css"
+  ],
+  "millisecondsFromInteractionToFirstTwoSeeks": 1495.0508999999993
+}

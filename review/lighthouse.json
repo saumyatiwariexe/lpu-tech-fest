@@ -1,0 +1,60 @@
+{
+  "shell": {
+    "score": 97,
+    "accessibility": 100,
+    "FCPms": 607.52185,
+    "LCPms": 2593.0874,
+    "CLS": 0,
+    "TBTms": 42,
+    "failures": [],
+    "runs": [
+      {
+        "score": 94,
+        "accessibility": 100,
+        "FCPms": 620.4845,
+        "LCPms": 2595.938,
+        "CLS": 0.1032427095990279,
+        "TBTms": 54,
+        "failures": []
+      },
+      {
+        "score": 97,
+        "accessibility": 100,
+        "FCPms": 607.52185,
+        "LCPms": 2593.0874,
+        "CLS": 0,
+        "TBTms": 42,
+        "failures": []
+      },
+      {
+        "score": 97,
+        "accessibility": 100,
+        "FCPms": 606.3864,
+        "LCPms": 2581.5456,
+        "CLS": 0,
+        "TBTms": 36,
+        "failures": []
+      }
+    ]
+  },
+  "journey": {
+    "score": 97,
+    "accessibility": 100,
+    "FCPms": 1032.2708499999999,
+    "LCPms": 2583.0278,
+    "CLS": 0,
+    "TBTms": 54,
+    "failures": [],
+    "runs": [
+      {
+        "score": 97,
+        "accessibility": 100,
+        "FCPms": 1032.2708499999999,
+        "LCPms": 2583.0278,
+        "CLS": 0,
+        "TBTms": 54,
+        "failures": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "path": "snapshots/prototype-v1.zip",
+  "bytes": 190585400,
+  "sha256": "7099a30b1e8a850a6a859daf157905c9dd0f34daf978d69afe1e02a77d86105a",
+  "crc": "pass",
+  "classicFilesByteIdentical": [
+    "src/film.ts",
+    "public/media/wide.mp4",
+    "public/media/mobile.mp4"
+  ]
+}

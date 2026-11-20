@@ -1,0 +1,52 @@
+[
+  {
+    "name": "arrival",
+    "t": 0,
+    "percent": 0
+  },
+  {
+    "name": "approach",
+    "t": 12,
+    "percent": 11.689070718877849
+  },
+  {
+    "name": "gate",
+    "t": 21,
+    "percent": 20.455873758036237
+  },
+  {
+    "name": "throne",
+    "t": 32,
+    "percent": 31.17085525034093
+  },
+  {
+    "name": "awakening",
+    "t": 43,
+    "percent": 41.88583674264563
+  },
+  {
+    "name": "lunge",
+    "t": 47,
+    "percent": 45.78219364893824
+  },
+  {
+    "name": "fire",
+    "t": 55,
+    "percent": 53.57490746152347
+  },
+  {
+    "name": "smoke",
+    "t": 63,
+    "percent": 61.36762127410871
+  },
+  {
+    "name": "trophies",
+    "t": 69,
+    "percent": 67.21215663354764
+  },
+  {
+    "name": "disciplines",
+    "t": 73,
+    "percent": 78.16091954022988
+  }
+]

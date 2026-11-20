@@ -1,0 +1,18 @@
+{
+  "shell": {
+    "score": 89,
+    "accessibility": 100,
+    "FCPms": 840.778,
+    "LCPms": 840.778,
+    "CLS": 0,
+    "failures": []
+  },
+  "journey": {
+    "score": 100,
+    "accessibility": 100,
+    "FCPms": 1063.7639,
+    "LCPms": 1063.7639,
+    "CLS": 0,
+    "failures": []
+  }
+}

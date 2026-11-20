@@ -1,0 +1,9 @@
+{
+  "combinedGzipJsBytes": 158751,
+  "jsBudgetBytes": 250000,
+  "shellLighthouseScore": 97,
+  "shellBudget": 90,
+  "viewportScreenshots": 63,
+  "physicalLaptopFPS": "unverified",
+  "physicalPhoneFPS": "unverified"
+}

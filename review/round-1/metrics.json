@@ -1,0 +1,128 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "height": 900,
+    "bytes": 23030235,
+    "errors": [],
+    "samples": [
+      {
+        "percent": 0,
+        "medianFrameMs": 16.700000000000045,
+        "p95FrameMs": 33.40000000000009,
+        "heapBytes": 4989568
+      },
+      {
+        "percent": 25,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 33.40000000000009,
+        "heapBytes": 5279056
+      },
+      {
+        "percent": 50,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 33.399999999999636,
+        "heapBytes": 5104152
+      },
+      {
+        "percent": 75,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.800000000000182,
+        "heapBytes": 5714360
+      },
+      {
+        "percent": 100,
+        "medianFrameMs": 16.69999999999891,
+        "p95FrameMs": 16.700000000000728,
+        "heapBytes": 5911424
+      }
+    ],
+    "videoTime": 71.86,
+    "videoReady": 4,
+    "webgl": true
+  },
+  {
+    "name": "tablet",
+    "width": 834,
+    "height": 1194,
+    "bytes": 7305569,
+    "errors": [],
+    "samples": [
+      {
+        "percent": 0,
+        "medianFrameMs": 16.700000000000045,
+        "p95FrameMs": 16.799999999999955,
+        "heapBytes": 4934808
+      },
+      {
+        "percent": 25,
+        "medianFrameMs": 16.59999999999991,
+        "p95FrameMs": 16.800000000000182,
+        "heapBytes": 5242132
+      },
+      {
+        "percent": 50,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.699999999999818,
+        "heapBytes": 5055300
+      },
+      {
+        "percent": 75,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.800000000000182,
+        "heapBytes": 5659440
+      },
+      {
+        "percent": 100,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.700000000000728,
+        "heapBytes": 5978344
+      }
+    ],
+    "videoTime": 71.91,
+    "videoReady": 4,
+    "webgl": true
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "height": 844,
+    "bytes": 2090,
+    "errors": [],
+    "samples": [
+      {
+        "percent": 0,
+        "medianFrameMs": 16.699999999999932,
+        "p95FrameMs": 16.800000000000068,
+        "heapBytes": 4862392
+      },
+      {
+        "percent": 25,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.799999999999727,
+        "heapBytes": 4876156
+      },
+      {
+        "percent": 50,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.700000000000273,
+        "heapBytes": 4731840
+      },
+      {
+        "percent": 75,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.800000000000182,
+        "heapBytes": 5252532
+      },
+      {
+        "percent": 100,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.700000000000728,
+        "heapBytes": 5447684
+      }
+    ],
+    "videoTime": 71.91,
+    "videoReady": 4,
+    "webgl": true
+  }
+]
