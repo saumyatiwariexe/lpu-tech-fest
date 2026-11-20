@@ -16,6 +16,14 @@ From this folder, run `npm ci` if dependencies are missing, then `npm run dev`. 
 | /?info | Festival programme, prizes, competitions, FAQ and contact in HTML |
 | /credits | Public asset and software credits |
 
+## Deploy to Vercel
+
+The repository includes `vercel.json` with the Vite build, `dist` output, SPA routing, the generated credits route, immutable hashed assets and cache headers for the 3D and video media. Vercel builds with Node.js 24 and `npm ci`.
+
+The optimized files in `public/media/` are part of the deployment and must be committed. The original footage in `source/`, the root source MP4, browser profiles, review captures and Blender working files stay excluded.
+
+Import the Git repository in Vercel with the project root set to this folder. Vercel will read the checked-in configuration, so no dashboard overrides are required. For a CLI deployment, run `vercel` from this directory after signing in.
+
 WASD moves, Shift sprints, mouse looks and E interacts. Arrow keys also move forward/backward and turn. Click the scene to capture the mouse. Escape opens the festival menu. On a touchscreen, move with the left joystick, drag the world to look and tap the interaction button. A standard gamepad uses the left and right sticks, left stick click for sprint, A to start or interact, Menu to open the guide, D-pad to move focus and B to close it. Sound starts muted. The registration form previews the interaction locally.
 
 ## Content and assets

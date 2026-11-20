@@ -16,6 +16,9 @@
   "author": "",
   "license": "UNLICENSED",
   "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
   "dependencies": {
     "@fontsource/barlow": "^5.3.0",
     "@fontsource/cinzel": "^5.3.0",
@@ -25,9 +28,11 @@
     "three-mesh-bvh": "^0.9.18"
   },
   "private": true,
-  "devDependencies": {
+  "optionalDependencies": {
     "@ffmpeg-installer/win32-x64": "^4.1.0",
-    "@ffprobe-installer/win32-x64": "^5.1.0",
+    "@ffprobe-installer/win32-x64": "^5.1.0"
+  },
+  "devDependencies": {
     "@gltf-transform/cli": "^4.5.1",
     "@types/three": "^0.187.0",
     "lighthouse": "^13.6.0",

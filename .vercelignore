@@ -1,0 +1,10 @@
+.asset-browser/
+.git/
+blender/
+build.zip
+preflight/
+reference/
+review/
+snapshots/
+source/
+/*.mp4

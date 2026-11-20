@@ -7,6 +7,7 @@ folders = ("src", "public", "docs", "review", "scripts", "blender", "reference",
 files = {
     "index.html", "vite.config.ts", "package.json", "package-lock.json", "tsconfig.json",
     "README.md", "FINAL_REPORT.md", "NOT_READY.md", ".npmrc", ".gitignore",
+    ".vercelignore", "vercel.json",
 }
 for folder in folders:
     for item in (root / folder).rglob("*"):
